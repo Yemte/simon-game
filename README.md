@@ -1,2 +1,2 @@
 # simon-game
-Mock startup website built with bootstrap
+simon game made with javascript and jQuery library
