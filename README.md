@@ -9,3 +9,7 @@ The rules of the game
 7. Remember the squence of the colors from the previouse level and clck all the buttons according to their sequence
 
 If you click a wrong button the whole page flashes with a sound and you will be asked to start the game again.
+
+
+Try the game here ....
+https://yemte.github.io/simon-game/
