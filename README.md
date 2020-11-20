@@ -1,5 +1,5 @@
 # simon-game
-The rules of the game
+The rule of the game
 1. press any key to start the game
 2.one of the buton flashes with a sound and level 1 starts 
 3.click the flashed button 
