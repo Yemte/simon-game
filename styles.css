@@ -1,0 +1,54 @@
+/* body to have text aligned in the center and  background color */
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+/* the h 1 id styles */
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+/* styles the container */
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+/* styles all the buttons having a class btn */
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+/* styles the class game-over with back ground color and opacity */
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+/* background color for the button red */
+.red {
+  background-color: red;
+}
+/* background color for the button green */
+.green {
+  background-color: green;
+}
+/* back ground color for the button blue */
+.blue {
+  background-color: blue;
+}
+/* back ground color for the color yellow */
+.yellow {
+  background-color: yellow;
+}
+/* the class for the buttons flash when pressed  */
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
